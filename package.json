@@ -7,7 +7,7 @@
   "bugs": {
     "url": "https://github.com/liuyami/webpack-filelist-plugin/issues"
   },
-  "homepage": "git@github.com:liuyami/webpack-preload-filelist-plugin.git",
+  "homepage": "https://github.com/liuyami/webpack-preload-filelist-plugin",
   "repository": {
     "type": "git",
     "url": "https://github.com/liuyami/webpack-preload-filelist-plugin.git"
