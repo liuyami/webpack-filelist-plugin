@@ -1,6 +1,6 @@
 {
   "name": "webpack-preload-filelist-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "index.js",
   "author": "Yami <evila@qq.com>",
   "license": "MIT",
