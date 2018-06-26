@@ -1,5 +1,5 @@
 {
-  "name": "webpack-filelist-plugin",
+  "name": "webpack-preload-filelist-plugin",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Yami <evila@qq.com>",
@@ -7,9 +7,9 @@
   "bugs": {
     "url": "https://github.com/liuyami/webpack-filelist-plugin/issues"
   },
-  "homepage": "https://github.com/liuyami/webpack-filelist-plugin",
+  "homepage": "git@github.com:liuyami/webpack-preload-filelist-plugin.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liuyami/webpack-filelist-plugin.git"
+    "url": "https://github.com/liuyami/webpack-preload-filelist-plugin.git"
   }
 }
